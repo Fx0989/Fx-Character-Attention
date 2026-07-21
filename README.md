@@ -12,3 +12,5 @@ Please note: You probably won’t be able to create a perfect and clear image wi
 
 About LoRAs:
 A LoRA will affect every condition and is not limited to the character prompt.
+
+To give you an example of how to use this node, download and open the workflow.
